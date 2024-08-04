@@ -1,8 +1,7 @@
 {
-  "name": "frontend-animal-rescue",
-  "version": "0.0.1",
-  "author": "Ionic Framework",
-  "homepage": "https://ionicframework.com/",
+  "name": "AnimalRescueHub",
+  "version": "1.0.0",
+  "author": "AnimalRescueHub",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
